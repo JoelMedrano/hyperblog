@@ -2,4 +2,4 @@ CREAR ARCHIVO BASICO EN LA NUEVA CARPETA
 
 Joel Medrano Güere 28 años.
 
-Hablaremos de su etapra aprendiendo a programar
+Hablaremos de su etapra aprendiendo a programar y aprendiendo GIT
